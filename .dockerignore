@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.git/
+.gitignore
+.idea/
+.vscode/
+e2e/
+*.md
+README.md
+Dockerfile
+.dockerignore
+npm-debug.log
+yarn-error.log
+coverage/
+.angular/
